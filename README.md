@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NikkiDandge
+- 👋 HELLOW I AM NIKITA
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Html Css Javascript
 - 💞️ I’m looking to colaborate on projects
