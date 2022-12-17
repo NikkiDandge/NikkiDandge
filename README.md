@@ -2,7 +2,8 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Html Css Javascript
 - 💞️ I’m looking to colaborate on projects
-- 📫 How to reach me ...
+- 📫  reach me nikitadandge0@gmail.com
+- 
 
 <!---
 NikkiDandge/NikkiDandge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
